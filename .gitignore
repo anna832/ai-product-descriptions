@@ -35,9 +35,6 @@ env/
 *.iws
 *.ipr
 
-# Выходные данные
-output.json
-
 # OS
 .DS_Store
 Thumbs.db
